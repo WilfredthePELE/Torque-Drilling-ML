@@ -17,7 +17,7 @@ Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 Installation
 
-Clone the repository:git clone https://github.com/yourusername/your-repo.git
+Clone the repository:git clone https://github.com/WilfredthePELE/Torque-Drilling-ML.git
 cd your-repo
 
 
